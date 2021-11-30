@@ -1,0 +1,11 @@
+{
+  "id": 9999682,
+  "name": "New Product",
+  "type": "Hard Good",
+  "upc": "12345676",
+  "price": 99.99,
+  "description": "This is a placeholder request for creating a new product.",
+  "model": "NP12345",
+  "updatedAt": "2021-11-30T21:18:17.810Z",
+  "createdAt": "2021-11-30T21:18:17.810Z"
+}

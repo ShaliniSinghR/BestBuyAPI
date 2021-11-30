@@ -1,0 +1,357 @@
+{
+  "total": 29,
+  "limit": 10,
+  "skip": 0,
+  "data": [
+    {
+      "id": 2698105,
+      "name": "Sony - 43\" Class (42.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "type": "HardGood",
+      "price": 699.99,
+      "upc": "027242888067",
+      "shipping": 0,
+      "description": "2160p resolutionMotionflow XR 960Smart Android TV with Google Play and Google Cast built-in",
+      "manufacturer": "Sony",
+      "model": "XBR43X830C",
+      "url": "http://www.bestbuy.com/site/sony-43-class-42-5-diag--led-2160p-smart-4k-ultra-hd-tv-black/2698105.p?id=1219555371949&skuId=2698105&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/2698/2698105_sa.jpg",
+      "createdAt": "2016-11-17T18:01:44.806Z",
+      "updatedAt": "2016-11-17T18:01:44.806Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat333800050003",
+          "name": "4K Ultra HD TVs",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ]
+    },
+    {
+      "id": 3892026,
+      "name": "LG - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "type": "HardGood",
+      "price": 549.99,
+      "upc": "719192597044",
+      "shipping": 0,
+      "description": "1080p resolutionTruMotion 120Smart TV, LG Content Store, Web browser included",
+      "manufacturer": "LG",
+      "model": "50LF6100",
+      "url": "http://www.bestbuy.com/site/lg-50-class-49-5-diag--led-1080p-smart-hdtv-black/3892026.p?id=1219606085772&skuId=3892026&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/3892/3892026_sa.jpg",
+      "createdAt": "2016-11-17T18:00:01.751Z",
+      "updatedAt": "2016-11-17T18:00:01.751Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101001",
+          "name": "All Flat-Panel TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 3953157,
+      "name": "Samsung - 40\" Class (40\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "type": "HardGood",
+      "price": 749.99,
+      "upc": "887276075716",
+      "shipping": 0,
+      "description": "2160p 4K Ultra HD resolutionClear Motion Rate 120Smart TV, S-Recommendation, Web browser",
+      "manufacturer": "Samsung",
+      "model": "UN40JU6500FXZA",
+      "url": "http://www.bestbuy.com/site/samsung-40-class-40-diag--led-2160p-smart-4k-ultra-hd-tv-black/3953157.p?id=1219609307257&skuId=3953157&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/3953/3953157_sa.jpg",
+      "createdAt": "2016-11-17T18:00:31.886Z",
+      "updatedAt": "2016-11-17T18:00:31.886Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat333800050003",
+          "name": "4K Ultra HD TVs",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ]
+    },
+    {
+      "id": 4405201,
+      "name": "Samsung - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "type": "HardGood",
+      "price": 699.99,
+      "upc": "887276069210",
+      "shipping": 0,
+      "description": "1080p resolutionMotion Rate 60Smart TV, Web browser included",
+      "manufacturer": "Samsung",
+      "model": "UN50J5200AFXZA",
+      "url": "http://www.bestbuy.com/site/samsung-50-class-49-5-diag--led-1080p-smart-hdtv-black/4405201.p?id=1219743457219&skuId=4405201&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/4405/4405201_sa.jpg",
+      "createdAt": "2016-11-17T18:01:06.648Z",
+      "updatedAt": "2016-11-17T18:01:06.648Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101001",
+          "name": "All Flat-Panel TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 4513700,
+      "name": "Samsung - 48\" Class (47.6\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "type": "HardGood",
+      "price": 599.99,
+      "upc": "887276124797",
+      "shipping": 0,
+      "description": "1080p resolutionMotion Rate 60Smart TV, Samsung Smart Hub, Web browser included",
+      "manufacturer": "Samsung",
+      "model": "UN48J5201AFXZA",
+      "url": "http://www.bestbuy.com/site/samsung-48-class-47-6-diag--led-1080p-smart-hdtv-black/4513700.p?id=1219756369972&skuId=4513700&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/4513/4513700_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101001",
+          "name": "All Flat-Panel TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 4517000,
+      "name": "LG - 49\" Class (48.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HDTV - Black",
+      "type": "HardGood",
+      "price": 599.99,
+      "upc": "719192602632",
+      "shipping": 0,
+      "description": "2160p resolutionTruMotion 120Smart TV",
+      "manufacturer": "LG",
+      "model": "49UF6430",
+      "url": "http://www.bestbuy.com/site/lg-49-class-48-5-diag--led-2160p-smart-4k-ultra-hdtv-black/4517000.p?id=1219755712396&skuId=4517000&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/4517/4517000_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat333800050003",
+          "name": "4K Ultra HD TVs",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ]
+    },
+    {
+      "id": 4801501,
+      "name": "Sony - 48\" Class (47.6\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "type": "HardGood",
+      "price": 549.99,
+      "upc": "027242896482",
+      "shipping": 0,
+      "description": "1080p resolutionMotionflow XR 240Smart TV, Opera browser,",
+      "manufacturer": "Sony",
+      "model": "KDL48W650D",
+      "url": "http://www.bestbuy.com/site/sony-48-class-47-6-diag--led-1080p-smart-hdtv-black/4801501.p?id=1219824662196&skuId=4801501&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/4801/4801501_sa.jpg",
+      "createdAt": "2016-11-17T18:02:21.601Z",
+      "updatedAt": "2016-11-17T18:02:21.601Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101001",
+          "name": "All Flat-Panel TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 4801700,
+      "name": "Sony - 43\" Class (42.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range - Black",
+      "type": "HardGood",
+      "price": 749.99,
+      "upc": "027242896529",
+      "shipping": 0,
+      "description": "2160p resolution with HDRMotionflow XR 240Smart TV, Android TV",
+      "manufacturer": "Sony",
+      "model": "XBR43X800D",
+      "url": "http://www.bestbuy.com/site/sony-43-class-42-5-diag--led-2160p-smart-4k-ultra-hd-tv-with-high-dynamic-range-black/4801700.p?id=1219824659346&skuId=4801700&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/4801/4801700_sa.jpg",
+      "createdAt": "2016-11-17T18:02:21.601Z",
+      "updatedAt": "2016-11-17T18:02:21.601Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat333800050003",
+          "name": "4K Ultra HD TVs",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ]
+    },
+    {
+      "id": 4801704,
+      "name": "Sony - 49\" Class (48.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "type": "HardGood",
+      "price": 799.99,
+      "upc": "027242896581",
+      "shipping": 0,
+      "description": "2160p resolutionMotionflow XR 240Smart TV, Android TV",
+      "manufacturer": "Sony",
+      "model": "XBR49X700D",
+      "url": "http://www.bestbuy.com/site/sony-49-class-48-5-diag--led-2160p-smart-4k-ultra-hd-tv-black/4801704.p?id=1219824659349&skuId=4801704&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/4801/4801704_sa.jpg",
+      "createdAt": "2016-11-17T18:02:21.601Z",
+      "updatedAt": "2016-11-17T18:02:21.601Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat333800050003",
+          "name": "4K Ultra HD TVs",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ]
+    },
+    {
+      "id": 4807300,
+      "name": "Toshiba - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "type": "HardGood",
+      "price": 549.99,
+      "upc": "600603198250",
+      "shipping": 0,
+      "description": "Only at Best Buy1080p resolution60Hz refresh rateSmart TV",
+      "manufacturer": "Toshiba",
+      "model": "55L421U",
+      "url": "http://www.bestbuy.com/site/toshiba-55-class-54-6-diag--led-1080p-smart-hdtv-black/4807300.p?id=bb4807300&skuId=4807300&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/4807/4807300_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101001",
+          "name": "All Flat-Panel TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    }
+  ]
+}

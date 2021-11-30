@@ -1,0 +1,8 @@
+{
+  "name": "GeneralError",
+  "message": "Cannot read property 'map' of undefined",
+  "code": 500,
+  "className": "general-error",
+  "data": {},
+  "errors": {}
+}

@@ -1,0 +1,493 @@
+{
+  "total": 132,
+  "limit": 10,
+  "skip": 0,
+  "data": [
+    {
+      "id": "abcat0100000",
+      "name": "TV & Home Theater",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0102000",
+          "name": "Blu-ray & DVD Players",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0105000",
+          "name": "TV & Internet Service Providers",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0106000",
+          "name": "TV Stands, Mounts & Furniture",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0107000",
+          "name": "TV & Home Theater Accessories",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0203000",
+          "name": "Home Theater Systems",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0205007",
+          "name": "Sound Bars",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat138100050024",
+          "name": "TV & Home Theater Services",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat139900050002",
+          "name": "Magnolia Home Theater",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat158900050008",
+          "name": "Projectors & Screens",
+          "createdAt": "2016-11-17T17:57:04.899Z",
+          "updatedAt": "2016-11-17T17:57:04.899Z"
+        },
+        {
+          "id": "pcmcat161100050040",
+          "name": "Streaming Media Players",
+          "createdAt": "2016-11-17T17:57:04.899Z",
+          "updatedAt": "2016-11-17T17:57:04.899Z"
+        }
+      ],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": "abcat0101000",
+      "name": "TVs",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [
+        {
+          "id": "abcat0101001",
+          "name": "All Flat-Panel TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0107000",
+          "name": "TV & Home Theater Accessories",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat138100050024",
+          "name": "TV & Home Theater Services",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat193400050018",
+          "name": "LED TVs",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat205800050000",
+          "name": "3D TVs",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat220700050011",
+          "name": "Smart TVs",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat301000050010",
+          "name": "OLED TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat333800050003",
+          "name": "4K Ultra HD TVs",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat333800050004",
+          "name": "Curved TVs",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat333800050005",
+          "name": "Outdoor TVs",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": "abcat0101001",
+      "name": "All Flat-Panel TVs",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [
+        {
+          "id": "pcmcat138100050024",
+          "name": "TV & Home Theater Services",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101000",
+          "name": "TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0101001",
+          "name": "All Flat-Panel TVs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": "abcat0104000",
+      "name": "Digital TV Tuners & Converters",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0104000",
+          "name": "Digital TV Tuners & Converters",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0107000",
+          "name": "TV & Home Theater Accessories",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": "abcat0105000",
+      "name": "TV & Internet Service Providers",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [
+        {
+          "id": "abcat0105004",
+          "name": "Cable TV Service Providers",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0514000",
+          "name": "Internet Services",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat340700050003",
+          "name": "Home Connections",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0105000",
+          "name": "TV & Internet Service Providers",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": "abcat0105002",
+      "name": "DIRECTV DVRs",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0105000",
+          "name": "TV & Internet Service Providers",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0105002",
+          "name": "DIRECTV DVRs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": "abcat0105003",
+      "name": "DIRECTV Receivers",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0105000",
+          "name": "TV & Internet Service Providers",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0105003",
+          "name": "DIRECTV Receivers",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": "abcat0105004",
+      "name": "Cable TV Service Providers",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0105000",
+          "name": "TV & Internet Service Providers",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0105004",
+          "name": "Cable TV Service Providers",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": "abcat0106000",
+      "name": "TV Stands, Mounts & Furniture",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [
+        {
+          "id": "abcat0106001",
+          "name": "TV Stands",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0106004",
+          "name": "TV Mounts",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0106008",
+          "name": "A/V Component Racks",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0106010",
+          "name": "CD & DVD Media Storage",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0106021",
+          "name": "Gaming Chairs",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat184500050000",
+          "name": "Furniture Assembly",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat219300050000",
+          "name": "Magnolia Home Theater TV Stands",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat249700050007",
+          "name": "Home Theater Furniture",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat332100050008",
+          "name": "Projector Mounts & Screens",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat332100050010",
+          "name": "Speaker Stands & Mounts",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat332100050015",
+          "name": "A/V Component Shelving",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0106000",
+          "name": "TV Stands, Mounts & Furniture",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": "abcat0106001",
+      "name": "TV Stands",
+      "createdAt": "2016-11-17T17:57:04.285Z",
+      "updatedAt": "2016-11-17T17:57:04.285Z",
+      "subCategories": [
+        {
+          "id": "pcmcat332100050000",
+          "name": "All TV Stands",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat332100050001",
+          "name": "TV Corner Stands",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat332100050002",
+          "name": "TV Stands with Flat-Panel Mounts",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        },
+        {
+          "id": "pcmcat332100050003",
+          "name": "TV Stands with Fireplace",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ],
+      "categoryPath": [
+        {
+          "id": "abcat0100000",
+          "name": "TV & Home Theater",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0106000",
+          "name": "TV Stands, Mounts & Furniture",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0106001",
+          "name": "TV Stands",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    }
+  ]
+}
