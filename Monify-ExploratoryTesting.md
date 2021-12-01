@@ -1,7 +1,7 @@
 Below presents the list of testcases of what should be tested in monefy application as part of exploratory testing.
 
 * Left side menu validations [MEDIUM]
-	1.The app should have correct name and logo
+	1. The app should have correct name and logo
 	2. Tapping the app should launch it and Home screen should be displayed.
 	3. Tapping the left hamburger sign should allow user to select the type of accounts
 	4. Tapping the left hamburger sign should allow user to select the duration of transaction
@@ -62,12 +62,12 @@ Below presents the list of testcases of what should be tested in monefy applicat
 	27. Tapping on ADD button, if the transaction ammount is zero, highlights transaction ammount input in red
 	28. Tapping on ADD button with valid TXN ammount and valid/empty note value creates "Expense transaction". New expense window should be closed.
 	29. User should be able to cancel the TXN. Steps to replicate:
-		a. Create valid expense
-		b. After creating the transaction the pop-up message should appear. 
-		c. The pop-up message should confirm the transaction amount and category. 
-		d. There should be Cancel button in the pop-up message. 
-		e. Cancel button deletes transaction. 
-		f. Pop-up message disappears after 10 sec.
+		* Create valid expense
+		* After creating the transaction the pop-up message should appear. 
+		* The pop-up message should confirm the transaction amount and category. 
+		* There should be Cancel button in the pop-up message. 
+		* Cancel button deletes transaction. 
+		* Pop-up message disappears after 10 sec.
  
 * Balance button validations [HIGH]
 	1. Balance button should display current balance (positive/negative,with currency, upto 2 decimals places)
@@ -78,10 +78,10 @@ Below presents the list of testcases of what should be tested in monefy applicat
 	6. Transactions list is displayed by Categories.
 	7. Every Category has a total value of transactions found in this Category
 	8. Tap on Category expands list of transactions with below details:
-		a. Each transaction displays if it's debit or credit. 
-		b. Every transaction in a list displays transaction amount with currency and the transaction date "DD Mon"
-		c. Debit transactions should be marked in red
-		d. Credit transactions should be marked in green
+		* Each transaction displays if it's debit or credit. 
+		* Every transaction in a list displays transaction amount with currency and the transaction date "DD Mon"
+		* Debit transactions should be marked in red
+		* Credit transactions should be marked in green
 	9. Second tap on Balance button hides the Balance section
 	10. Addition of expenses or income should update the balance button in real time.
 	11. "Downward" arrow on the right side of the Balance button should sort the transaction based on category/duration
@@ -91,17 +91,17 @@ Below presents the list of testcases of what should be tested in monefy applicat
 	2. Tap on + button opens New income screen.
 	3. New Income keyboard and amount entering mechanism should be similar to add trasfer/new expense scree
 	4. Below should be the difference b/w new expense and new income
-		a. After entering valid amount user and no/valid note user should be able to add category "Deposits, Salary, Savings","ADD+"
-		b. Tapping ADD+ should take user to Pro-feature
-		c. For new Expense, after entering valid amount user and no/valid note user should be able to add category which are displayed in home screen
-		d. It should be impossible to Choose Category while the transaction ammount is zero for both income/expense screen
+		* After entering valid amount user and no/valid note user should be able to add category "Deposits, Salary, Savings","ADD+"
+		* Tapping ADD+ should take user to Pro-feature
+		* For new Expense, after entering valid amount user and no/valid note user should be able to add category which are displayed in home screen
+		* It should be impossible to Choose Category while the transaction ammount is zero for both income/expense screen
 	5. User should be able to cancel the TXN for both income/expense screen. Steps to replicate:
-		a. Create valid expense
-		b. After creating the transaction the pop-up message should appear. 
-		c. The pop-up message should confirm the transaction amount and category. 
-		d. There should be Cancel button in the pop-up message. 
-		e. Cancel button deletes transaction. 
-		f. Pop-up message disappears after 10 sec.
+		* Create valid expense
+		* After creating the transaction the pop-up message should appear. 
+		* The pop-up message should confirm the transaction amount and category. 
+		* There should be Cancel button in the pop-up message. 
+		* Cancel button deletes transaction. 
+		* Pop-up message disappears after 10 sec.
 	5. Balance button is updated after income transaction was created. Transaction is displayed in Balance history section.
 
 
@@ -130,9 +130,9 @@ Below presents the list of testcases of what should be tested in monefy applicat
 	22. Predefined text Name should appear in the Green text box
 	23. User should not be able to create new account if no name has been provided. The text field should highlight in red on tapping ADD button
 	24. User should not be able to create new account if no image has been selected. "Select an image" pop should appear.
-	25.	On successful creation of new Account below should be displayed
-		a. Pop up with message "New account was created" [BUG] 
-		b. Cancel button deletes transaction. 
+	25. On successful creation of new Account below should be displayed
+		* Pop up with message "New account was created" [BUG] 
+		* Cancel button deletes transaction. 
 	26. User should be able to see new account created on left side menu under "All accounts"
 	27. User should be able to delete account
 	28. User should be able to edit account
